@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #fafafa;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3071,11 +3071,11 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: rgba(0, 0, 0, 0.025);
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
+			background-color: rgba(0, 0, 0, 0.05);
 		}
 
 		.spotlights > section.inactive > .image:before,
