@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(95, 104, 118, 0.75);
+		color: rgba(95, 104, 118, 0.85);
 		font-family: Quicksand, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -3870,7 +3870,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #f5f4f2;
+							background-color: #adadad;
 						}
 
 		}
