@@ -1,6 +1,7 @@
 ## website-redesign
 
-This website is based on a HTML5 UP template website skeleton.
-In order to maintain the integrity of previous personal website, 
-necessary design changes will/have been made to best.
+[oliviaslee.me](http://oliviaslee.me/)
 
+Simplified website layout for clear and concise delivery of information.
+Consolidates resume information into website with relevant links to showcase 
+varying personal work.
