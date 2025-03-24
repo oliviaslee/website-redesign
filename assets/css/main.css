@@ -158,6 +158,10 @@ li {
     border-bottom: 2pt solid rgb(13, 100, 212, 1);
 }
 
+#gutter {
+  margin-top: 0em;
+}
+
 @media screen and (prefers-color-scheme: dark) {
     html {
       background: #2f3236;
